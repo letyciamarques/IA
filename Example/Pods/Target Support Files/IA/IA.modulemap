@@ -1,0 +1,6 @@
+framework module IA {
+  umbrella header "IA-umbrella.h"
+
+  export *
+  module * { export * }
+}

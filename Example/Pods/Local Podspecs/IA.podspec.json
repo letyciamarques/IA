@@ -1,0 +1,22 @@
+{
+  "name": "IA",
+  "version": "0.1.0",
+  "summary": "A short description of IA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/letyciamarques/IA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "letyciamarques": "letycia.sobrinho@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/letyciamarques/IA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "IA/Classes/**/*"
+}
